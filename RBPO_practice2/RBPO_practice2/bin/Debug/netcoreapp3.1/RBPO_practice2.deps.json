@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RBPO_practice2/1.0.0": {
+        "runtime": {
+          "RBPO_practice2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RBPO_practice2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
